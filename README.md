@@ -4,7 +4,7 @@
 
 ### Toňo wants to sleep. The city disagrees.
 
-**[Download](releases/Ostrava90sBrawl-1.0.apk)** · Android 8.0+ · offline · no account
+**[Download](https://github.com/stanochillart/Ostrava90sBrawl/releases/download/v1.0/Ostrava90sBrawl-1.0.apk)** · Android 8.0+ · offline · no account
 
 ---
 
@@ -32,6 +32,6 @@ Toňo is not the Batman of Ostrava. He wants to sleep.
 
 ---
 
-**[Download Ostrava 90's Brawl](releases/Ostrava90sBrawl-1.0.apk)**
+**[Download Ostrava 90's Brawl](https://github.com/stanochillart/Ostrava90sBrawl/releases/download/v1.0/Ostrava90sBrawl-1.0.apk)**
 
 StanoChillArt · [stanochillart.wordpress.com](https://stanochillart.wordpress.com/)
