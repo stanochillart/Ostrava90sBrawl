@@ -1,4 +1,4 @@
-**English** · [Slovenčina](README.sk.md)
+**English** · [Čeština](https://stanochillart.github.io/Ostrava90sBrawl/cs/)
 
 # Ostrava 90's Brawl
 
