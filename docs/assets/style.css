@@ -142,16 +142,17 @@ h2 {
 }
 .shots {
   display: flex;
-  flex-direction: column;
   gap: 0.65rem;
+  overflow-x: auto;
   margin: 1.4rem 0 0.4rem;
-  max-width: 100%;
+  padding: 0.15rem 0 0.7rem;
+  -webkit-overflow-scrolling: touch;
 }
 .shots img {
-  width: 100%;
-  height: auto;
+  height: 22rem;
+  width: auto;
   border-radius: 1rem;
   border: 1px solid var(--line);
   background: #000;
-  display: block;
+  flex: 0 0 auto;
 }
