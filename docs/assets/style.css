@@ -140,9 +140,19 @@ h2 {
   margin: 2rem 0 0.4rem;
   font-weight: 600;
 }
-.soon {
-  font-family: system-ui, sans-serif;
-  font-size: 0.82rem;
-  color: var(--muted);
-  margin: 0 0 1.1rem;
+.shots {
+  display: flex;
+  gap: 0.65rem;
+  overflow-x: auto;
+  margin: 1.4rem 0 0.4rem;
+  padding: 0.15rem 0 0.7rem;
+  -webkit-overflow-scrolling: touch;
+}
+.shots img {
+  height: 12rem;
+  width: auto;
+  border-radius: 1rem;
+  border: 1px solid var(--line);
+  background: #000;
+  flex: 0 0 auto;
 }
